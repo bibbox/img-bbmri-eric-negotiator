@@ -28,5 +28,5 @@ If you want to deploy an other negotiator version feel free to replace the bbmri
 
 `mvn clean compile war:war`
 
-This will create a bbmri-negotiator-*version*.war ind the target directory. 
+This will create a bbmri-negotiator-*version*.war in the target directory. 
 
