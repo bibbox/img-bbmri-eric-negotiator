@@ -24,6 +24,9 @@ The negotiator needs a connection to a PostgreSQL Database. The connection param
 
 ## Use Different Negotiator Version:
 
-If you want to deploy an other negotiator version feel free to replace the bbmri-negotiator.war file with your version. To create a bbmri-negotiator.war download the [negotiator v2](https://github.com/BBMRI-ERIC/negotiator-v2) repository and compile it: `mvn clean compile war:war`.
-This wil create a bbmri-negotiator-*version*.war ind the target directory. 
+If you want to deploy an other negotiator version feel free to replace the bbmri-negotiator.war file with your version. To create a bbmri-negotiator.war download the [negotiator v2](https://github.com/BBMRI-ERIC/negotiator-v2) repository and compile it: 
+
+`mvn clean compile war:war`
+
+This will create a bbmri-negotiator-*version*.war ind the target directory. 
 
