@@ -1,4 +1,6 @@
 # img-bbmri-eric-negotiator
+
+## IMPORTANT: This repository is deprecated and should not be used.
 This is a docker image for the BBMRI-ERIC [negotiator v2](https://github.com/BBMRI-ERIC/negotiator-v2).
 
 ## Getting Started
